@@ -1,2 +1,2 @@
 # spider-python
-Spiders written with python
+Spiders written in python
