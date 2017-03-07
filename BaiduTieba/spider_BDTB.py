@@ -3,7 +3,7 @@
 Created on 2016年3月27日
 @author: Gym
 @content: 贴吧爬虫，用于爬取百度贴吧某条帖子里所有楼层的文字内容
-@usage: 安装python2.7，双击打开，根据提示依次输入相关信息，短暂等待后即可获取文字内容
+@usage: 安装python2.7，双击打开本文件，根据提示依次输入相关信息，短暂等待后即可获取文字内容
 '''
 import sys
 import urllib
