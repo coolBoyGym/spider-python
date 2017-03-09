@@ -3,6 +3,7 @@
 Created on 2017年3月8日
 @author: Gym
 @content: 爬取'mzitu.com'网站上的图片
+@attention: 感谢站长分享，好人一生平安
 '''
 import urllib
 import urllib2
